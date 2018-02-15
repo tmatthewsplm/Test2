@@ -1,0 +1,11 @@
+{
+  "packageDirectories": [
+    {
+      "path": "src",
+      "default": true
+    }
+  ],
+  "namespace": "PLMRX",
+  "sfdcLoginUrl": "https://propeldx.my.salesforce.com",
+  "sourceApiVersion": "40.0"
+}

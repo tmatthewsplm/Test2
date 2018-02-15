@@ -1,0 +1,7 @@
+{
+  "orgName": "PLM_COMPANY",
+  "edition": "Developer",
+  "orgPreferences" : {
+    "enabled" : ["Translation", "S1DesktopEnabled", "ChatterEnabled", "EnhancedEmailEnabled"]
+  }
+}
